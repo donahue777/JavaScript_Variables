@@ -45,3 +45,5 @@ let pageCount = 722;
 let bookmark = 456;
 
 let hasRead = true;
+
+console.log(`${firstName} read ${title} by ${author} and enjoyed all ${pageCount} pages.`)
